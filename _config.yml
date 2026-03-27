@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://evantyan.github.io"
 
 # Theme
-theme: cayman
+theme: jekyll-theme-cayman
 
 # Optional: Additional plugins for GitHub Pages
 plugins:
