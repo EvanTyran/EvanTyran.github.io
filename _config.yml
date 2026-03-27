@@ -1,3 +1,14 @@
-remote_theme: pages-themes/minimal
-title: [Your Name]'s Portfolio
+# Site settings
+title: Evan Tyran's Portfolio
+email: Evan.Tyran@gmail.com
 description: Data Science, ML, and CPG Analytics
+baseurl: ""
+url: "https://evantyan.github.io"
+
+# Theme
+theme: cayman
+
+# Optional: Additional plugins for GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
