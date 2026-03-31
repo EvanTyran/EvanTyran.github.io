@@ -9,7 +9,7 @@ The Objective: Create a robust data visualization using generative AI that tells
 
 The Prompt: Placeholder
 
-![Trump Poll Visualization](/assets/images/logo.png)
+![Trump Poll Visualization](/assets/images/Logo.png)
 
 When communicating complex poll data like this, standard bright red and green can fail in a professional or BI context. If the colors are too harsh, they clash with standard data indicators.
 
