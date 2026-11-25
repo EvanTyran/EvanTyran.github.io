@@ -1,5 +1,5 @@
 # EvanTyran.github.io
 Testing testing 123
 
-Evan Tyran's portfolio site, covering data science, ML, and CPG analytics.  
+Business Analyst and Data Scientist: Forecasting and Analytics.  
 Built with Jekyll and the Cayman theme, and hosted on GitHub Pages.
