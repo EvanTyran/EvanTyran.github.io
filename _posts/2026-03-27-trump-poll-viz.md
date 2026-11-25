@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Visualizing the Polls: Using GenAI for Data Storytelling"
 date: 2026-03-27
 categories: educational

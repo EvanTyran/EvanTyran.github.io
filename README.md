@@ -1,7 +1,5 @@
 # EvanTyran.github.io
 Testing testing 123
 
-## My Projects
-{% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }}) - {{ post.date | date_to_string }}
-{% endfor %}
+Evan Tyran's portfolio site, covering data science, ML, and CPG analytics.  
+Built with Jekyll and the Cayman theme, and hosted on GitHub Pages.
